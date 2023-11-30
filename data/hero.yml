@@ -1,13 +1,15 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello! I am 
 content: >
-  # I am here for your personal business
+  # Ana Fernandes
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  ### a Data Scientist 
+  
+  who is about all data, solving puzzles, <br>and coming up with clever solutions <br> that drive impact.
+
+  
+  #### Let's build stuff together 🚀
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
