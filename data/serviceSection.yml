@@ -8,38 +8,35 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Code 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Python 
+      <> SQL 
+      <> R
     image: images/service/coding_2.gif
   - content: >
-      #### Web Development 
+      #### Data Science 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Machine Learning 
+      <> A/B Testing 
+      <> NLP
+      
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Tech Stack 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Docker 
+      <> Git 
+      <> AWS Batch 
+      <> Sagemaker
+      <> Airflow  
+    image: images/service/creative.svg
+  - content: >
+      #### Soft Skills 
+
+      Problem solving
+      <> Communication 
+      <> Collaboration
+      <> Project Management
     image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+---
