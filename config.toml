@@ -56,7 +56,6 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/ai.gif"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"

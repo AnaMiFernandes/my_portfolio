@@ -1,3 +1,1 @@
-./config.toml:60:footerLogo = "images/contact/widget-logo.png"
-./config.toml:64:logo = "images/site-navigation/logo.png"
-./assets/bootstrap-4.5.2/_config.yml:36:social_logo_path:   /docs/4.5/assets/brand/bootstrap-social-logo.png
+./layouts/partials/footer.html:72:					<p>Copyright {{ dateFormat "2006" now }} - All Rights Reserved by <a class="text-light" href="https://staticmania.com/" target="_blank">StaticMania</a></p>
