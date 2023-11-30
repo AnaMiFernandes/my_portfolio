@@ -2,57 +2,61 @@
 enable: true
 topTitle: My Resume
 title: >
-  ## My Expertises
+  ## My journey
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+  I discovered my passion for data during my PhD, after countless hours delving into transcriptomics datasets 
+  and collaborating with Data Scientists. Understanding the potential of Data Science to address real-world 
+  challenges thrilled me, and prompted me to become a<br> Data Scientist myself.
+tab1Name: Experience
+tab2Name: Education
 tab1Target: education
 tab2Target: experience
 
 education:
+# add experience here
   - content: >
-      #### Master in Arts
+      #### OLX
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      As a **Junior Data Scientist**, I developed and deployed a Customer Potential model across 3 European markets, 
+      and conceived and implemented a Self-Service model, which helped sellers to improve their sales efficiency.
+      Both projects required extensive collaboration with Engineering, Customer Success, and local Sales teams.
+    time: Jan 2022 to present
   - content: >
-      #### Master in Arts
+      #### OLX
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      As a **Data Science Trainee**, I researched and developed a Proof-of-Concept Reply Assistant model for the Customer Support team, that aimed at enhancing
+      customer-agent interactions. The solution I built leveraged advanced NLP techniques, transformer models, and transfer learning. 
+    time: Jul 2021 to Dec 2021
   - content: >
-      #### Master in Arts
+      #### BIMSB, MDC
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      As a **PhD researcher**, I led research initiatives encompassing experiment planning, execution, and analysis, at the intersection of 
+      of RNA biology, Transcription, and Neurobiology. I also excelled in communicating complex discoveries, securing two poster awards and engaging 
+      large audiences with compelling presentations.
+    time: Jan 2014 to Oct 2020
 
 experience:
+# add education here
   - content: >
-      #### Umbrella co. 
+      #### Data Science Bootcamp
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Le Wagon - Berlin, Germany
+    time: 2021
   - content: >
-      #### Aperture Science 
+      #### PhD in Systems Biology 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Humboldt University - Berlin, Germany
+    time: 2020
   - content: >
-      #### ACME Inc. 
+      #### Msc in Molecular Biology
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Aarhus University - Aarhus, Denmark
+
+      
+      Lisbon University - Lisbon, Portugal <br> 
+    time: 2012
   - content: >
-      #### LexCorp 
+      #### Bsc in Biology 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Lisbon University - Lisbon, Portugal
+    time: 2010
