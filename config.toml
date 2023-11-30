@@ -36,22 +36,22 @@ weight = 5
 # weight = 8
 
 # Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
+# [[menu.sitemap]]
+# name = "About me"
+# url = "about"
+# weight = 1
+# [[menu.sitemap]]
+# name = "Frequently Ask Question"
+# url = "#"
+# weight = 2
+# [[menu.sitemap]]
+# name = "Privacy & Policy"
+# url = "#"
+# weight = 3
+# [[menu.sitemap]]
+# name = "Latest Article"
+# url = "#"
+# weight = 4
 
 [params]
 blogPageURL = "blog"
@@ -63,31 +63,23 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/ai.gif"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Berlin, Germany"
+email = "amgcfernandes@gmail.com"
+# openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+# phone = "+(448) 833 5272 332"
 
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+# [params.map]
+# APIkey = "YOUR GOOGLE MAP API"
+# latitude = "23.7783741"
+# longitude = "90.3746808"
+# pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/ana-mi-fernandes/"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
+icon = "fa-github"
+url = "https://github.com/AnaMiFernandes"
 weight = 4
