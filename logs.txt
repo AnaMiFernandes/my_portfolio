@@ -1,0 +1,3 @@
+./config.toml:60:footerLogo = "images/contact/widget-logo.png"
+./config.toml:64:logo = "images/site-navigation/logo.png"
+./assets/bootstrap-4.5.2/_config.yml:36:social_logo_path:   /docs/4.5/assets/brand/bootstrap-social-logo.png
