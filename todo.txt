@@ -1,4 +1,0 @@
-to do list:
-
-1 - change image in hero section to proper image (my_pic.png & hero.yml)
-2 - make and add general CV to about section

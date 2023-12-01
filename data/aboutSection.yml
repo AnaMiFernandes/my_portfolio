@@ -21,6 +21,6 @@ content: >
 button1Name: Hire me
 button2Name: My CV
 button1Target: contact
-button2Target: contact
+button2Target: "https://drive.google.com/file/d/1g9qoVGoUmVS5Qsh_bsQO6o82Z7FNUJia/view?usp=sharing"
 image: images/about/ds_connections.png
 # image: images/about/about-img.jpg
