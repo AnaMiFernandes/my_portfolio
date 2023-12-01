@@ -1,11 +1,11 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Skills
 title: >
-  ## Creative Services
+  ## What I bring 
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  I thrive on growth and absolutely love learning! 
+  Here are the skills I have gathered along my journey.
 service:
   - content: >
       #### Code 
@@ -13,15 +13,16 @@ service:
       Python 
       <> SQL 
       <> R
-    image: images/service/coding_2.gif
+    image: images/service/coding.png
   - content: >
       #### Data Science 
 
       Machine Learning 
       <> A/B Testing 
       <> NLP
+      <> Deplyment
       
-    image: images/service/creative.svg
+    image: images/service/ai.png
   - content: >
       #### Tech Stack 
 
@@ -30,13 +31,13 @@ service:
       <> AWS Batch 
       <> Sagemaker
       <> Airflow  
-    image: images/service/creative.svg
-  - content: >
-      #### Soft Skills 
+    image: images/service/tech_stack.png
+  # - content: >
+  #     #### Soft Skills 
 
-      Problem solving
-      <> Communication 
-      <> Collaboration
-      <> Project Management
-    image: images/service/branding.svg
+  #     Problem solving
+  #     <> Communication 
+  #     <> Collaboration
+  #     <> Project Management
+  #   image: images/service/soft_skills.png
 ---

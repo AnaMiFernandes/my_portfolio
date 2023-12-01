@@ -15,11 +15,11 @@ name = "Resume"
 url = "#resume"
 weight = 3
 [[menu.main]]
-name = "Service"
+name = "Skills"
 url = "#service"
 weight = 4
 [[menu.main]]
-name = "Work"
+name = "Projects"
 url = "#portfolio"
 weight = 5
 # [[menu.main]]
