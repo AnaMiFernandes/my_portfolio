@@ -4,17 +4,23 @@ topTitle: About
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Data Science with purpose
 content: >
-  ### I design and build ultimate things.
+  ### Crafting solutions tailored to customer’s needs
+  
+  I am a Data Scientist with a passion for solving challenges. 
+  My PhD in Systems Biology and my hands-on experience in Data Science have given me 
+  a unique perspective on data and how to extract value from it, <br> all while never losing focus of what is most important <br> 
+  - the customer. 
+  
+  
+  My knack for performing experiments and distilling their insights into compelling narratives allows me to effectively communicate 
+  complex results to non-technical stakeholders. I take it into my own hands to foster collaboration, and promote an understanding of 
+  needs and data-driven outcomes. 
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
 button1Name: Hire me
-button2Name: Download CV
+button2Name: My CV
 button1Target: contact
-button2Target: contact
-image: images/about/about-img.jpg
+button2Target: "https://drive.google.com/file/d/1g9qoVGoUmVS5Qsh_bsQO6o82Z7FNUJia/view?usp=sharing"
+image: images/about/ds_connections.png
+# image: images/about/about-img.jpg

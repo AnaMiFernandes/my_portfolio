@@ -6,7 +6,7 @@
     justify-content: center;
     flex-wrap: wrap;
     &-thumb {
-      width: 45%;
+      width: 41%;
       position: relative;
       @include desktop {
         width: 100%;
@@ -43,7 +43,7 @@
     &-inner {
       width: 55%;
       padding: 60px 50px;
-      background: #1b2031;
+      background: #1f516d;
       border-radius: 20px;
       margin-left: -60px;
       position: relative;
