@@ -1,2 +1,0 @@
-./layouts/partials/blogSection.html:17:					<a class="btn btn-outline-secondary  btn-zoom m-3" href="{{ .buttonTarget | absURL }}">See all post</a>
-./layouts/partials/blogSection.html:43:					<a class="btn btn-outline-secondary btn-zoom" href="{{ .buttonTarget | absURL }}">See all post</a>
