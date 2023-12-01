@@ -1,6 +1,1 @@
-./assets/scss//components/_testimonial-section.scss:88:        button {
-./assets/scss//components/_testimonial-section.scss:109:          button {
-./assets/scss//components/_service-section.scss:79:                button {
-./assets/scss//components/_service-section.scss:100:                    button {
-./assets/scss//components/_hero-section.scss:126:      .popup-button {
-./assets/scss//components/_hero-section.scss:158:        .popup-button {
+./layouts/partials/footer.html:27:						<h2 class="mb-0">Let’s Start a Project</h2>
