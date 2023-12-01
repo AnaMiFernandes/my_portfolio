@@ -2,5 +2,3 @@ to do list:
 
 1 - change image in hero section to proper image (my_pic.png & hero.yml)
 2 - add general CV to about section
-3 - fix image in about section
-4 - fix the images in skills sections - they are too big

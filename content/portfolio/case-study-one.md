@@ -1,8 +1,8 @@
 ---
-title: Case Study One
+title: Find Your Dream Job
 date: 2020-07-13T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-1.png
-service: Development, UX Design
+thumbnail: images/portfolio/fydj_1.png
+service: NLP
 client: Edward Furlong
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
