@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recents Article on </title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Recents Article on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate>
+    <atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find Your Dream Job</title>
+      <link>http://example.org/blog/find-your-dream-job/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      <guid>http://example.org/blog/find-your-dream-job/</guid>
+      <description>The solution we built For the final project of my Data Science Bootcamp, my team and I created an app designed to empower new commers navigating the Data Science job market. Our app provides:
+A bird&amp;rsquo;s eye view of the job market with statistics on: in-demand positions top hiring companies most desired skills Enhanced Skill Insights: users can input a skill and receive related skills frequently mentioned together in job listings.</description>
+    </item>
+  </channel>
+</rss>
