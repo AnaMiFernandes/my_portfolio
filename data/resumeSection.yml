@@ -20,18 +20,18 @@ education:
       #### OLX
 
       As a **Junior Data Scientist**, I successfully developed and deployed a Customer Potential model 
-      in three European markets, and spearheaded a Self-Service model that enhanced sales efficiency and 
-      boosted user spending by 14%. Both projects involved close collaboration with Engineering, 
-      Customer Success, and Sales teams, highlighting my ability to bridge gaps between data and 
-      practical business applications.
+      in three European markets, and spearheaded a Self-Service model that boosted user spending by 14%.  
+      
+      
+      Both projects involved close collaboration with Engineering, Customer Success, and Sales teams, 
+      highlighting my ability to bridge gaps between data and business applications.
     time: Jan 2022 to present
   - content: >
       #### OLX
 
       As a **Data Science Trainee**, I took the initiative to design and develop a Reply Assistant 
-      model for Customer Support, using advanced NLP techniques and Transformer models. This project 
-      aimed at enhancing customer-agent interactions and showcased my ability in leveraging state-of-the-art 
-      AI technologies.
+      model for Customer Support, using advanced NLP techniques and Transformer models, with with 99%
+      prediction accuracy.
 
     time: Jul 2021 to Dec 2021
   - content: >
@@ -57,10 +57,9 @@ experience:
   - content: >
       #### Msc in Molecular Biology
 
-      Aarhus University - Aarhus, Denmark
+      Aarhus University - Aarhus, Denmark  
 
-      
-      Lisbon University - Lisbon, Portugal <br> 
+      Lisbon University - Lisbon, Portugal
     time: 2012
   - content: >
       #### Bsc in Biology 
