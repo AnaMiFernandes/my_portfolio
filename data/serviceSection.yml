@@ -11,26 +11,26 @@ service:
       #### Code 
 
       Python 
-      <> SQL 
-      <> R
+      • SQL 
+      • R
     image: images/service/coding.png
   - content: >
       #### Data Science 
 
-      Machine Learning 
-      <> A/B Testing 
-      <> NLP
-      <> Deplyment
+      Supervised & Unsupervised ML
+      NLP
+      • A/B Testing
+      • Deployment 
       
     image: images/service/ai.png
   - content: >
       #### Tech Stack 
 
-      Docker 
-      <> Git 
-      <> AWS Batch 
-      <> Sagemaker
-      <> Airflow  
+      AWS (Batch, Sagemaker)  
+      • Docker  
+      • Git  
+      • Airflow  
+    
     image: images/service/tech_stack.png
   # - content: >
   #     #### Soft Skills 

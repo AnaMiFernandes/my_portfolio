@@ -4,9 +4,11 @@ topTitle: My Resume
 title: >
   ## My journey
 
-  I discovered my passion for data during my PhD, after countless hours delving into transcriptomics datasets 
-  and collaborating with Data Scientists. Understanding the potential of Data Science to address real-world 
-  challenges thrilled me, and prompted me to become a<br> Data Scientist myself.
+  Discovering the “world of data” during my PhD was a turning point for me. The countless hours 
+  spent analyzing transcriptomics datasets and collaborating with experienced Data Scientists 
+  opened my eyes to the impactful possibilities of Data Science, 
+  leading me down the path of becoming a Data Scientist myself.
+
 tab1Name: Experience
 tab2Name: Education
 tab1Target: education
@@ -17,22 +19,27 @@ education:
   - content: >
       #### OLX
 
-      As a **Junior Data Scientist**, I developed and deployed a Customer Potential model across 3 European markets, 
-      and conceived and implemented a Self-Service model, which helped sellers to improve their sales efficiency.
-      Both projects required extensive collaboration with Engineering, Customer Success, and local Sales teams.
+      As a **Junior Data Scientist**, I successfully developed and deployed a Customer Potential model 
+      in three European markets, and spearheaded a Self-Service model that boosted user spending by 14%.  
+      
+      
+      Both projects involved close collaboration with Engineering, Customer Success, and Sales teams, 
+      highlighting my ability to bridge gaps between data and business applications.
     time: Jan 2022 to present
   - content: >
       #### OLX
 
-      As a **Data Science Trainee**, I researched and developed a Proof-of-Concept Reply Assistant model for the Customer Support team, that aimed at enhancing
-      customer-agent interactions. The solution I built leveraged advanced NLP techniques, transformer models, and transfer learning. 
+      As a **Data Science Trainee**, I took the initiative to design and develop a Reply Assistant 
+      model for Customer Support, using advanced NLP techniques and Transformer models, with with 99%
+      prediction accuracy.
+
     time: Jul 2021 to Dec 2021
   - content: >
       #### BIMSB, MDC
 
-      As a **PhD researcher**, I led research initiatives encompassing experiment planning, execution, and analysis, at the intersection of 
-      of RNA biology, Transcription, and Neurobiology. I also frequently in communicated complex my discoveries in engaging ways
-      to large audiences.
+      As a **PhD researcher**, I led research at the crossroads of RNA biology, Transcription, and Neurobiology 
+      and honed my skills in experiment design, execution, and analysis. Communicating complex findings to 
+      diverse audiences refined my ability to convey intricate data insights in an engaging and accessible manner.
     time: Jan 2014 to Oct 2020
 
 experience:
@@ -50,10 +57,9 @@ experience:
   - content: >
       #### Msc in Molecular Biology
 
-      Aarhus University - Aarhus, Denmark
+      Aarhus University - Aarhus, Denmark  
 
-      
-      Lisbon University - Lisbon, Portugal <br> 
+      Lisbon University - Lisbon, Portugal
     time: 2012
   - content: >
       #### Bsc in Biology 
