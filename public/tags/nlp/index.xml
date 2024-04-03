@@ -13,8 +13,7 @@
       <link>http://example.org/blog/find-your-dream-job/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
       <guid>http://example.org/blog/find-your-dream-job/</guid>
-      <description>The solution we built For the final project of my Data Science Bootcamp, my team and I created an app designed to empower new commers navigating the Data Science job market. Our app provides:
-A bird&amp;rsquo;s eye view of the job market with statistics on: in-demand positions top hiring companies most desired skills Enhanced Skill Insights: users can input a skill and receive related skills frequently mentioned together in job listings.</description>
+      <description>The solution we built For the final project of my Data Science Bootcamp, my team and I created an app designed to empower new commers navigating the Data Science job market. Our app provides:&#xA;A bird&amp;rsquo;s eye view of the job market with statistics on: in-demand positions top hiring companies most desired skills Enhanced Skill Insights: users can input a skill and receive related skills frequently mentioned together in job listings.</description>
     </item>
   </channel>
 </rss>
